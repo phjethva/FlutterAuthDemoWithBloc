@@ -5,7 +5,7 @@ This is an example of authentication process & user management with Firebase to 
 I will update step-by-step guide soon. Please hit the "☆ Star" button & Don't forget to "✔ -> Watch -> All Activity". So you can receive all updates to this repository.
 
 ## Contributing
-✅  Pull requests are welcome.
+✅  Pull requests are welcome.  
 ✅  For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
